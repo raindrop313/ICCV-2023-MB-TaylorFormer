@@ -105,7 +105,7 @@ data
 
 ## Training
 
-To train Restormer with default settings, run
+To train MB-TaylorFormer with default settings, run
 
 ```
 sh /train.sh Dehazing/Options/MB-TaylorFormer-B.yml 
@@ -154,4 +154,4 @@ If you have any question, please feel free to contact us via `qiuyw9@mail2.sysu.
 
 ## Acknowledgments
 
-This code is based on [Restormer](https://github.com/swz30/Restormer) and [MPViT](https://github.com/youngwanLEE/MPViT).
+This code is based on [Restormer](https://github.com/swz30/Restormer).
